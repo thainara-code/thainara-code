@@ -1,16 +1,13 @@
-## Hi there 👋
+ Bem vindo ao meu perfil br
+ meu nome e Thainara 
 
-<!--
-**thainara-code/thainara-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -estou estudando (alura) 
+ -estou me desenvolvendo no java script
+ -utilizo esse espaço para minha organização e compartilhamento dos meus projetos em desenvolvimento
 
-Here are some ideas to get you started:
+ ## voce pode entrar em contato comigo no :mailbox
+ 
+ 00001114208930sp@al.educacao.sp.gov.br
+<img src="https://i.redd.it/ivqikvzv174d1.jpeg" alt="r/NatureIsFuckingLit - 🔥A male deer hiding in the wheat field"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
