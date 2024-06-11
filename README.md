@@ -10,5 +10,3 @@
  00001114208930sp@al.educacao.sp.gov.br
 <img src="https://i.redd.it/ivqikvzv174d1.jpeg" alt="r/NatureIsFuckingLit - 🔥A male deer hiding in the wheat field"/> 
 
-![Uploading image.png…]()
-
